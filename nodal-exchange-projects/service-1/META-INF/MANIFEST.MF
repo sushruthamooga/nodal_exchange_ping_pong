@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: service-1
+Implementation-Version: 0.0.1
+Built-By: anushamotlakunta
+Implementation-Vendor-Id: com.nodalexchange
+Spring-Boot-Version: 2.1.3.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.nodalexchange.Service1Application
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_351
+Implementation-URL: 
+
